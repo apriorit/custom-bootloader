@@ -14,10 +14,20 @@ The source code for bootloader cited here is solely for training purposes. Its s
 
 1. Perform the loading from the address 0000:7c00 to the system memory.
 2. Call the BootMain function, which was written using a high-level language.
-3. Display a simple ìHello worldî message on the screen.
+3. Display a simple ‚ÄúHello world‚Äù message on the screen.
 
 For detailed explanations, additional tutorial materials and schemes, please see the [related article](https://www.apriorit.com/dev-blog/66-develop-boot-loader)
 
+## About Apriorit
+
+This repository is a public technical example from Apriorit related to general software engineering and advanced software engineering.
+
+Apriorit is a cybersecurity-focused software engineering company that helps technology companies build secure, reliable, and high-performance software ‚Äî from kernel-level components to cloud-based platforms.
+
+Learn more: https://www.apriorit.com/rd-services/custom-software-and-application-development-services
+
+Website: https://www.apriorit.com
+
 ## License
 
-Licensed under the MIT license. © Apriorit.
+Licensed under the MIT license. ¬© Apriorit.
